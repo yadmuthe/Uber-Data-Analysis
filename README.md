@@ -1,8 +1,8 @@
 # Uber-Data-Analysis
 Objective:
-The objective is to first explore hidden or previously unknown information by applying exploratory data analytics on the dataset and to know the effect of each field on price with every other field of the dataset. Then we apply different machine learning models to complete the analysis. After this, the results of applied machine learning models were compared and analyzed on the basis of accuracy, and then the best performing model was suggested for further predictions of the label ‘Price’.
+The objective is to first explore previously unknown information by applying exploratory data analytics on the dataset and to know the effect of each field on price with every other field of the dataset. Then use different machine learning models to complete the analysis. Post that, the results of applied machine learning models were compared and analyzed on the basis of accuracy, and then the best performing model was suggested for further predictions of the label ‘Price’.
 
-DataSet:
+Dataset:
 For this project we are taken the dataset from kaggle in which there are 57 columns and approx 6 lakh rows and the file is in csv format. you can view or download the dataset through this link: https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
 
 Application of this Project:
